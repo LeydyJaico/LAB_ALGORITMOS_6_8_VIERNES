@@ -1,0 +1,18 @@
+[submodule "Jaico_Quispe_Leydy_Yesenia"]
+	path = Jaico_Quispe_Leydy_Yesenia
+	url = https://github.com/LeydyJaico/Algoritmos.git
+[submodule "Mucha_Hilari_Roy_Kenner"]
+	path = Mucha_Hilari_Roy_Kenner
+	url = https://github.com/RoyMucha/Ejercicios_Laboratorio_Algoritmos.git
+[submodule "Soto_Bautista_Ruiz_Eduard"]
+	path = Soto_Bautista_Ruiz_Eduard
+	url = https://github.com/eduard12-SB/lob_t.git
+[submodule "Vargas_Ludeña_Jheferson"]
+	path = Vargas_Ludeña_Jheferson
+	url = https://github.com/Jhef01/Ejercicios-de-laboratorio-.git
+[submodule "Flores_Garagundo_Anita_Esmeralda"]
+	path = Flores_Garagundo_Anita_Esmeralda
+	url = https://github.com/AnaFlores26/Laboratorio-1-5.git
+[submodule "Loayza_de_la_Cruz_Maykol"]
+	path = Loayza_de_la_Cruz_Maykol
+	url = https://github.com/maycolsvenplus/C-Users-user-Desktop-ALGORITMOS-LABORATORIO-6-8.git
